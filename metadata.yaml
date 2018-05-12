@@ -1,0 +1,39 @@
+_repo: ArchitectureGothic-and-Renaissance_33837
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, T. Roger (Thomas Roger)
+    aliases:
+    - Smith, Roger T. (Roger Thomas)
+    - Smith, Thomas Roger
+    birthdate: 1830
+    deathdate: 1903
+    gutenberg_agent_id: '34136'
+    url: http://www.gutenberg.org/2009/agents/34136
+  editor:
+    agent_name: Poynter, Edward John
+    alias: Poynter, Edward J.
+    birthdate: 1836
+    deathdate: 1919
+    gutenberg_agent_id: '36685'
+    url: http://www.gutenberg.org/2009/agents/36685
+description: ''
+gutenberg_issued: '2010-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33837'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Architecture, Gothic'
+- !lcsh 'Church architecture'
+- !lcsh 'Architecture -- History'
+- !lcc 'NA'
+- !lcsh 'Architecture, Renaissance'
+title: 'Architecture: Gothic and Renaissance'
+url: http://www.gutenberg.org/ebooks/33837
